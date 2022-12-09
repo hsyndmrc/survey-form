@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: 300;
+}
+
+p {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.bot-label {
+  display: inline-block;
+  margin-bottom: 15px;
+}
+
+div {
+  margin-bottom: 10px;
+}
+
+label {
+  display: inline-block;
+}
